@@ -1,2 +1,2 @@
-# https://pietroversollato.github.io/MeuPrimeiroSite/
+# https://pietroversollato.github.io/MeuCurriculo/
 Meu Currículo
